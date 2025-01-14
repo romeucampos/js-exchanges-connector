@@ -2,6 +2,8 @@
 
 An open source JavaScript library for fetching cryptocurrency exchanges
 
+[<img src="https://api.gitsponsors.com/api/badge/img?id=390396345" height="20">](https://api.gitsponsors.com/api/badge/link?p=KrgdKlAz9G5H8q8A2PbjU28NjwMmxDN2xMI9xH8RJr4I3bXEyBialV9vw5uOkSBVdAd0jzYXT/PsCK1OyrUL2lB3mEZLCXRjpDCMNbP5tYGxK2pdXaPdf6SqImkwWWTk03xubKCDI7dkvwHTER/KrQ==)
+
 # Instalation
 
 `yarn add @coinsamba/js-exchanges-connector`
@@ -193,7 +195,7 @@ FetcherHandler.setFetcher(new MyFetcher());
 | coinsbank 🌐      | ✓         |               |                      | ✓       |
 | cryptomarket 🇦🇷   | ✓         |               |                      | ✓       |
 | decrypto 🇦🇷       |           |               |                      | ✓       |
-| digitra 🇧🇷        | ✓         |               |                      | ✓       |
+| digitra 🇧🇷        | ✓         | ✓             |                      | ✓       |
 | exmo 🌐           | ✓         | ✓             |                      | ✓       |
 | flowbtc 🇧🇷        | ✓         |               | ✓                    | ✓       |
 | foxbit 🇧🇷         | ✓         | ✓             |                      | ✓       |
